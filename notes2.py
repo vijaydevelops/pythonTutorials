@@ -3,7 +3,7 @@
 # to interpret python py file with an interpreter
 # python filename.py
 
-# single-line commands can be executed in python terminal, which is opened using commmand:
+# single-line commands can be executed in python terminal, which is opened using commmand: (same as opening IDLE shell)
 # python
 
 # exit() to close the python cmd line
